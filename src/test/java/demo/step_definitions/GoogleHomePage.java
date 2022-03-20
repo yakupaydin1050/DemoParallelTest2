@@ -9,4 +9,6 @@ public class GoogleHomePage {
     public void goToTheGoogleHomePage() {
         Driver.get().get("https://www.google.com");
     }
+
+
 }
